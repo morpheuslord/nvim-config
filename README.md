@@ -1,5 +1,11 @@
 # Nvim-config
-Nvim Personal config for windows and WSL
+Neovim configuration for windows, linux and WSL.
+
+## Pre-Requesits
+Both Windows And Linux
+- nerd-fonts
+In windows:
+- Windows terminal Application
 
 ## Features
 
