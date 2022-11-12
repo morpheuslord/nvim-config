@@ -14,6 +14,7 @@ return require('packer').startup({
     use {'nanozuki/tabby.nvim'}
     use {'EdenEast/nightfox.nvim'}
     use { 'rose-pine/neovim'}
+    use {'rcarriga/nvim-notify'}
     use { 'nvim-treesitter/nvim-treesitter'}
     use {
       'tamton-aquib/staline.nvim',
